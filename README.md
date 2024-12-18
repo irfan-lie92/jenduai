@@ -1,4 +1,4 @@
-## wee-ai
+## Jendu-ai
 
 React Application which provide AI services (text-to-image and text-generation).
 This app use an API provided by [Huggingface](https://huggingface.co) and [Deepinfra](https://deepinfra.com)
